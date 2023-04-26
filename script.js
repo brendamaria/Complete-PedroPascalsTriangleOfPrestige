@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name        Complete-PedroPascalsTriangleOfPrestige - brendamaria.github.io
+// @name        Complete-PedroPascalsTriangleOfPrestige
 // @namespace   Violentmonkey Scripts
-// @match       https://asteriskman7.github.io/PedroPascalsTriangleOfPrestige/
+// @match       https://github.com/brendamaria/Complete-PedroPascalsTriangleOfPrestige
 // @grant       none
-// @version     1.0
-// @author      -
+// @version     1.0.1
+// @author      brenda maria
+// @license     MIT
 // @description 26/04/2023, 06:42:54
 // ==/UserScript==
 const cheatPanel=`Digite o coluna e o linha que deseja completar: Ex:row,col`;
